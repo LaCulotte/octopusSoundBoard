@@ -1,0 +1,7 @@
+node_modules
+settings.json
+package-lock.json
+build
+musics_*
+sounds_*
+mplayer
